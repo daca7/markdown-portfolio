@@ -2,8 +2,4 @@
 
 Below is a _list_ of my **skills**:
 
-## Test
-- test
-
-## Test2
-- test2
+## More info shortly
